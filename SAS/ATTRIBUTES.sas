@@ -496,6 +496,7 @@ datalines;
 run;
 
 
+
 data b6;
 input id name $10. loc $ age gender $ sal;
 informat sal dollar8.;
